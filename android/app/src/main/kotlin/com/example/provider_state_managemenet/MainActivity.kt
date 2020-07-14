@@ -1,0 +1,6 @@
+package com.example.provider_state_managemenet
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
